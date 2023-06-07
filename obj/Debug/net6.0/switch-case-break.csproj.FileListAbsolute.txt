@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\switch-case-break\switch-case-break\bin\Debug\net6.0\switch-case-break.exe
+C:\Users\user\Desktop\code-TRA\git-starter\switch-case-break\switch-case-break\bin\Debug\net6.0\switch-case-break.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\switch-case-break\switch-case-break\bin\Debug\net6.0\switch-case-break.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\switch-case-break\switch-case-break\bin\Debug\net6.0\switch-case-break.dll
+C:\Users\user\Desktop\code-TRA\git-starter\switch-case-break\switch-case-break\bin\Debug\net6.0\switch-case-break.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\switch-case-break\switch-case-break\obj\Debug\net6.0\switch-case-break.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\switch-case-break\switch-case-break\obj\Debug\net6.0\switch-case-break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\switch-case-break\switch-case-break\obj\Debug\net6.0\switch-case-break.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\switch-case-break\switch-case-break\obj\Debug\net6.0\switch-case-break.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\switch-case-break\switch-case-break\obj\Debug\net6.0\switch-case-break.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\switch-case-break\switch-case-break\obj\Debug\net6.0\switch-case-break.dll
+C:\Users\user\Desktop\code-TRA\git-starter\switch-case-break\switch-case-break\obj\Debug\net6.0\refint\switch-case-break.dll
+C:\Users\user\Desktop\code-TRA\git-starter\switch-case-break\switch-case-break\obj\Debug\net6.0\switch-case-break.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\switch-case-break\switch-case-break\obj\Debug\net6.0\switch-case-break.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\switch-case-break\switch-case-break\obj\Debug\net6.0\ref\switch-case-break.dll
